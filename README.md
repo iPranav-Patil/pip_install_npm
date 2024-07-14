@@ -56,7 +56,7 @@ To get started with SocialSprint, follow these steps:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd socialsprint
+   cd pip_install_npm
    ```
 
 3. **Install dependencies:**
