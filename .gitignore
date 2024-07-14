@@ -1,0 +1,10 @@
+/node_modules
+/.next/
+.DS_Store
+.env*.local
+.vercel
+package-lock.json
+__pychache__/
+*/__pychache__
+venv/
+*/venv
